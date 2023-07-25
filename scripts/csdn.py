@@ -61,3 +61,4 @@ def find_replace(file):
 
 
 find_replace("docs/chapt7")
+print("there is a test to git up")
